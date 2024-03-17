@@ -1,0 +1,59 @@
+body{
+  background-color:tan;
+  width: 100%;
+  height: 90vh;
+  font-family: monospace;
+  font-size: 20px;
+}
+.Taskform{
+  background-color: tan;
+  border: 1px solid tan;
+  margin-top: 70px;
+  margin-left: auto; margin-right: auto;
+  width: 800px;
+  
+  
+}
+.edit-btn{
+  margin-left: auto; margin-right: auto;
+  border: 1px solid green;
+  
+  
+}
+.delete-btn{
+  border: 1px solid red;
+}
+h1{
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 49px;
+}
+h2{
+  font-weight: bold;
+  font-family: monospace;
+}
+input{
+  width: 400px;
+  height: 50px;
+}
+.add-btn{
+  width: 100px;
+  height: 53px;
+  background-color: coral;
+  font-weight: bold;
+  cursor: pointer;
+}
+.add-btn:hover{
+  background-color: tan;
+}
+.date-input{
+  width: 200px;
+  
+}
+.sort-btn{
+  background-color: coral;
+  font-weight: bold;
+  width: 200px;
+  height: 30px;
+  margin-top: 10px;
+}
